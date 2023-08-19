@@ -1,4 +1,4 @@
-name: drug
+name: myenv 
 channels:
   - conda-forge
   - defaults
